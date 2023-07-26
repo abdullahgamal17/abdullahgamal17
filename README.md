@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahgamal17
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in Deep Learning and NLP
+- 🌱 I’m currently learning Neural Networks in Sports
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me LinkedIN : https://www.linkedin.com/in/abdullah-gamal-6585b81b8/
 
